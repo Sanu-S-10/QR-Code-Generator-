@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/5efae8da-453e-41e2-84ab-ca371f16fbae
+**URL**: https://qrcode-generator-bysanu.netlify.app/
 
 ## How can I edit this code?
 
